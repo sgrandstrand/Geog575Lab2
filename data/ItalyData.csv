@@ -1,0 +1,21 @@
+﻿NOME_REG,COD_REG,Vineyards,WhiteWine,RedWine,DOP,IGP,Vino
+Piemonte,N1,1.86,46,54,89,0,11
+Valle d'Aosta,N2,0.082,31,69,85,0,15
+Liguria,N7,0.110,67,33,43,18,39
+Lombardia,N3,0.95,48,52,53,35,12
+Trentino Alto Adige / Südtirol,N4,0.91,68,32,91,8,1
+Veneto,N5,4.47,78,22,73,23,4
+Friuli-Venezia Giulia,N6,3.16,77,23,37,37,26
+Emilia-Romagna,N8,2.376,51,49,25,42,33
+Toscana,N9,2.51,15,85,65,24,10
+Umbria,N10,1.22,47,53,48,43,10
+Marche,N11,1.51,52,48,37,18,45
+Lazio,N12,0.75,73,27,51,28,22
+Abruzzo,N13,2.49,42,58,31,10,59
+Molise,N14,1.17,30,70,6,12,82
+Campania,N15,1.46,46,54,17,9,74
+Puglia,N16,4.71,47,53,7,23,71
+Basilicata,N17,0.67,18,82,32,30,38
+Calabria,N18,0.57,28,72,13,26,62
+Sicilia,N19,3.74,57,43,27,53,20
+Sardegna,N20,0.83,45,55,68,14,18

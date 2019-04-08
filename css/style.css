@@ -1,0 +1,151 @@
+/* Stylesheet by Sarah Grandstrand */
+/* University of Wisconsin Madison Geography Department */
+/*   GEOG575 Lab 2, D3  */
+/*   Statistical Information of Wine in Italy */
+
+#intro {
+    position: relative;
+    text-align: center;
+    color: maroon;
+    font-family: Cagliostro;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+#header {
+    font-family: Cagliostro, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+}
+
+div #intro {
+    padding: 5px;
+}
+
+.countries {
+    fill: #FFF;
+    stroke: #A9A9A9;
+    stroke-width: 2px;
+}
+
+.gratLines {
+    fill: #CADCFA;
+    stroke: #999;
+    stroke-width: 0px;
+}
+
+.map {
+    border: medium solid #999;
+    margin: 4px 0 80px 20px;
+}
+
+.regions {
+    stroke: #000;
+    stroke-width: 0.5px;
+    stroke-linecap: round;
+}
+
+.chart {
+    float: left;
+    margin: 10px 0, 80px, 20px;
+    /* top, right , bottom , left  */
+}
+
+.chartTitle {
+    position: absolute;
+    left: 50px;
+    font-family: Cagliostro, sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.chartBackground {
+    fill: rgba(128, 128, 128, .2);
+}
+
+.chartFrame {
+    fill: none;
+    stroke: #999;
+    stroke-width: 3px;
+    shape-rendering: crispEdges;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #999;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: Cagliostro, sans-serif;
+    font-size: 0.7em;
+    fill: #999;
+}
+
+.dropdown {
+    position: absolute;
+    top: 255px;
+    right: 70px;
+    z-index: 10;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 2px;
+    border: 1px solid #999;
+    box-shadow: 2px 2px 4px #999;
+}
+
+
+x option {
+    font-weight: normal;
+}
+
+.infolabel {
+    position: absolute;
+    height: 50px;
+    min-width: 100px;
+    color: #fff;
+    background-color: maroon;
+    border: solid thin #fff;
+    padding: 5px 10px;
+    top: -75px;
+    box-shadow: 0px 0px 2px #8C848A;
+    border-radius: 10px;
+}
+
+.infolabel h1 {
+    margin: 0 20px 0 0;
+    padding: 0;
+    display: inline-block;
+    line-height: 1em;
+    font-family: Cagliostro, sans-serif;
+}
+
+
+#citation {
+    width: 100%;
+    text-align: left;
+    bottom: 0;
+    font-size: 8px;
+    position: fixed;
+    z-index: 9999;
+    left: 15px;
+    line-height: 0;
+
+}
+
+#citation p {
+    margin-bottom: 8px;
+    padding: 0;
+    line-height: 0;
+}
